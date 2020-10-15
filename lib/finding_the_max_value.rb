@@ -4,5 +4,6 @@ def find_max_value(array)
     if array[i] > max_size
       max_size = array[i]
     end
+  end
   max_size 
 end
